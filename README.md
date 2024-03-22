@@ -6,8 +6,8 @@ Welcome to the Data Analysis Projects repository! This repository contains a col
 To get started with any of the projects, navigate to the respective project directory and follow the instructions provided in the project's README. Each project folder contains a detailed description, setup instructions, and additional resources to guide you through the project.
 
 ## Contents
-Elevator  -  This is a python based project. This implements basic lift operation and collects the data to a CSV file and Data Analysis is done on that data set. It is still under progress. 
-Influence Maximization  -  This project is to find out the most or top influensers on a given domain. You will be given a descending ordered list of influencers ranging from highest to lowest. 
+1. Elevator  -  This is a Python based project. This implements basic lift operation and collects the data to a CSV file and Data Analysis is done on that data set. It is still in progress. 
+2. Influence Maximization  -  This project is to find out the most or top influencers in a given domain. You will be given a descending order list of influencers ranging from highest to lowest. 
 ## Contact
 Please don't hesitate to reach out if you have any questions or suggestions regarding this repository. You can contact me at jagadeeshbittu999@gmail.com.
 
