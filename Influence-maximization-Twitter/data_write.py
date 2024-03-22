@@ -43,7 +43,7 @@ def second_code():
     r = RetweetParser(user = 'elonmusk',
                   data = 'elon_tweets.csv')
     
-    import untitled116
-    untitled116.third_code()
+    import data_visualize
+    data_visualize.third_code()
 if __name__ == "__main__":
     second_code()
